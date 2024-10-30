@@ -1,0 +1,26 @@
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\База данных1.accdb
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Сметаненко\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\База данных1.accdb
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Обмен\2024-2025 учебный год\МДК 0202\П-41\Хорин\ДЕМОЭКЗАМЕН\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
